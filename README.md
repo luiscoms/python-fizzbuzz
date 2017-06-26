@@ -1,6 +1,8 @@
 FizzBuzz
 ====
 
+[![Build Status](https://travis-ci.org/luiscoms/python-fizzbuzz.svg?branch=develop)](https://travis-ci.org/luiscoms/python-fizzbuzz) [![Heroku](https://heroku-badge.herokuapp.com/?app=python-fizzbuzz)](https://python-fizzbuzz.herokuapp.com/)
+
 **About this Kata**
 
 This Kata was posted here by someone anonymously. Michael Feathers and
