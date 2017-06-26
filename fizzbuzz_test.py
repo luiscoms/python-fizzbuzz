@@ -8,7 +8,7 @@ from fizzbuzz import fizzbuzz
 @ddt
 class FizzBuzzTest(unittest.TestCase):
 
-    @data(1, 2, 4, 7, 8, 11, 13, 14, 16, 17, 19)
+    @data(1, 2, 4, 7, 8, 11, 13, 14, 16, 17, 19, 22)
     def test_number_not_divisible_by_three_nor_five_should_be_equal(self, number):
         self.assertEqual(str(number), fizzbuzz(number))
 
