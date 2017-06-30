@@ -15,9 +15,10 @@ def homepage():
     <html>
     <head>
         <style>
-        pre {
-            background: #CCCCCC
-        }
+        pre {{
+            background: #CCCCCC;
+            background: #CCBF00;
+        }}
         </style>
         <title>FizzBuzz</title>
     </head>

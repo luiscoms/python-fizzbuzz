@@ -3,14 +3,16 @@ FizzBuzz
 
 [![Build Status](https://travis-ci.org/luiscoms/python-fizzbuzz.svg?branch=develop)](https://travis-ci.org/luiscoms/python-fizzbuzz) [![Heroku](https://heroku-badge.herokuapp.com/?app=python-fizzbuzz)](https://python-fizzbuzz.herokuapp.com/)
 
+Origin http://codingdojo.org/kata/FizzBuzz/
+
 **About this Kata**
 
 This Kata was posted here by someone anonymously. Michael Feathers and
-[EmilyBache](/people/EmilyBache) performed it at agile2008 when
+[EmilyBache](http://codingdojo.org/people/EmilyBache) performed it at agile2008 when
 competing in "Programming with the stars" in python, in 4 minutes.
 
-Difficulty: Easy Good for teaching: [TDD](/TestDrivenDevelopment) ,
-[BabySteps](/BabySteps)
+Difficulty: Easy Good for teaching: [TDD](http://codingdojo.org/TestDrivenDevelopment) ,
+[BabySteps](http://codingdojo.org/BabySteps)
 
 **Problem Description**
 
@@ -68,29 +70,29 @@ Sample output:
 
 **Comments from those who are working on this Kata**
 
-(Comment from [MikeMinutillo](/people/MikeMinutillo) ) The best use of
-the [KataFizzBuzz](/kata/FizzBuzz) is to introduce the concepts of TDD
-and [BabySteps](/BabySteps) to a new [CodingDojo](/CodingDojo) . In my
+(Comment from [MikeMinutillo](http://codingdojo.org/people/MikeMinutillo) ) The best use of
+the [KataFizzBuzz](http://codingdojo.org/kata/FizzBuzz) is to introduce the concepts of TDD
+and [BabySteps](http://codingdojo.org/BabySteps) to a new [CodingDojo](http://codingdojo.org/CodingDojo) . In my
 case, I work with many clever people who don't do alot of automated
 testing and can't see how it could work. There are heaps of different
-ways to implement this [KataFizzBuzz](/kata/FizzBuzz) problem and it's
+ways to implement this [KataFizzBuzz](http://codingdojo.org/kata/FizzBuzz) problem and it's
 easy to throw in new requirements (at the second step here does). I
 actually did learn TDD using FizzBuzz (I went crazy with it too. Do a
 search for Enterprise FizzBuzz to see the madness)
 
 ------------------------------------------------------------------------
 
-(Comment from [ThomasNilsson](/people/ThomasNilsson) ) I tried this Kata
+(Comment from [ThomasNilsson](http://codingdojo.org/people/ThomasNilsson) ) I tried this Kata
 with a group of newcommers to TDD and it worked out beautifully. It is a
 very simple problem so people are not thrown into ProblemSolvingMode
-which is common with e.g. the [KataBowling](/kata/Bowling) , which has
+which is common with e.g. the [KataBowling](http://codingdojo.org/kata/Bowling) , which has
 previously been my favourite.
 
 Yet it is sufficient to let you talk about OpenYourMindToDesignFirst ,
-ListYourTests , [BabySteps](/BabySteps) ,
+ListYourTests , [BabySteps](http://codingdojo.org/BabySteps) ,
 TheSimplestThingThatCouldPossiblyWork , HurryToGreen , Refactor and
 CodeSmells . It has a nice flow to it, no "humps" like again the
-[KataBowling](/kata/Bowling) . So this is my new favorite for
+[KataBowling](http://codingdojo.org/kata/Bowling) . So this is my new favorite for
 introducing TDD.
 
 I also tried adding the requirement that the filtering (Divisible by 3
@@ -98,15 +100,15 @@ I also tried adding the requirement that the filtering (Divisible by 3
 of a Filter is required. You can do that both initially and as an added
 complexity at the end.
 
-Here is my [KataFizzBuzzSolution](/solution/KataFizzBuzzSolution) .
+Here is my [KataFizzBuzzSolution](http://codingdojo.org/solution/KataFizzBuzzSolution) .
 
 ------------------------------------------------------------------------
 
-(Comment from [IlkerCetinkaya](/people/IlkerCetinkaya) ) We tackled this
-Kata in our very first Dojo ( [MucNetDojo](/dojo/MucNetDojo) ). It's a
+(Comment from [IlkerCetinkaya](http://codingdojo.org/people/IlkerCetinkaya) ) We tackled this
+Kata in our very first Dojo ( [MucNetDojo](http://codingdojo.org/dojo/MucNetDojo) ). It's a
 very good starter and we all enjoyed the simplicity. The easiness allows
 you to talk a little more about TDD, all the pro's and con's alongside.
-We did [KataFizzBuzz](/kata/FizzBuzz) with a group of hobbyists and
+We did [KataFizzBuzz](http://codingdojo.org/kata/FizzBuzz) with a group of hobbyists and
 pro's. The low logical complexity added value to teaming as well. I
 think we've chosen the right Kata to start with.
 
@@ -118,7 +120,7 @@ Trondheim Coding Dojo. Our solution (.NET) is available at
 
 ------------------------------------------------------------------------
 
-(Comment from [RonRomero](/people/RonRomero) ) I used this kata to help
+(Comment from [RonRomero](http://codingdojo.org/people/RonRomero) ) I used this kata to help
 teach myself Android development. I finished the standard [\[Android
 Hello
 World\]](http://developer.android.com/guide/tutorials/hello-world.html)
@@ -130,9 +132,9 @@ in learning the Android. I wrote it up at
 
 ------------------------------------------------------------------------
 
-(Comment from [LaurentLaffont](/people/LaurentLaffont) ) Done in a
+(Comment from [LaurentLaffont](http://codingdojo.org/people/LaurentLaffont) ) Done in a
 coding-dojo with Pharo. Easy, great for teaching TDD. A
-[KataFizzBuzzSmalltalkSolution](/solution/KataFizzBuzzSmalltalkSolution)
+[KataFizzBuzzSmalltalkSolution](http://codingdojo.org/solution/KataFizzBuzzSmalltalkSolution)
 .
 
 ------------------------------------------------------------------------
