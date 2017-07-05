@@ -1,5 +1,6 @@
 {
-  "name": "python-fizzbuzz",
+  "name": "Python FizzBuzz Coding Dojo",
+  "keywords": ["python", "flask"],
   "scripts": {
   },
   "env": {
