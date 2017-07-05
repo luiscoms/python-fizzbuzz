@@ -16,8 +16,8 @@ def homepage():
     <head>
         <style>
         pre {{
-            background: #CCCCCC;
             background: #CCBF00;
+            background: #CCCCCC;
         }}
         </style>
         <title>FizzBuzz</title>
